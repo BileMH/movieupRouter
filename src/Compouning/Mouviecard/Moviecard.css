@@ -1,0 +1,19 @@
+.Cards{
+    margin: 40px;
+}
+.click{
+   display: flex;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+}
+.click1{
+    display: flex;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+}
